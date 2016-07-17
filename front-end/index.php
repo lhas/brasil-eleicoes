@@ -135,17 +135,19 @@
 
                     <div ng-if="isAuthenticated()" ng-controller="FormularioCtrl" class="text-center">
 
-                    <div ng-hide="currentUser.cidade">
-                        <img ng-if="currentUser.facebook" ng-src="//graph.facebook.com/{{currentUser.facebook}}/picture?type=large" height="150" alt="" class="img-circle">
-                        <h3>Olá, {{currentUser.displayName}}! Qual é a sua cidade?</h3>
+                        <div ng-hide="currentUser.cidade">
+                            <img ng-if="currentUser.facebook" ng-src="//graph.facebook.com/{{currentUser.facebook}}/picture?type=large" height="150" alt="" class="img-circle">
+                            <h3>Olá, {{currentUser.displayName}}! Qual é a sua cidade?</h3>
+                            
+                            <input class="form-control" type="text" ng-model="searchCity" placeholder="Busque sua cidade">
 
-                        <div class="list-group">
-                            <a href="javascript:void(0);" ng-click="escolherCidade(value)" class="list-group-item" ng-repeat="(value, cidade) in cidades">
-                                <h4 class="list-group-item-heading">{{cidade}}</h4>
-                            </a>
+                            <div class="list-group">
+                                <a href="javascript:void(0);" ng-click="escolherCidade(value)" class="list-group-item" ng-repeat="(value, cidade) in cidades | custom: searchCity">
+                                    <h4 class="list-group-item-heading">{{cidade}}</h4>
+                                </a>
+                            </div>
+
                         </div>
-
-                    </div>
 
                         <div ng-show="currentUser.cidade && !currentUser.candidato">
                             <h3>Qual será o seu candidato?</h3>
