@@ -138,11 +138,11 @@
                         <div ng-hide="currentUser.cidade">
                             <img ng-if="currentUser.facebook" ng-src="//graph.facebook.com/{{currentUser.facebook}}/picture?type=large" height="150" alt="" class="img-circle">
                             <h3>Olá, {{currentUser.displayName}}! Qual é a sua cidade?</h3>
-                            
-                            <input class="form-control" type="text" ng-model="searchCity" placeholder="Busque sua cidade">
+
+                            <input class="form-control search-city" type="text" ng-model="searchCity" placeholder="Busque sua cidade">
 
                             <div class="list-group">
-                                <a href="javascript:void(0);" ng-click="escolherCidade(value)" class="list-group-item" ng-repeat="(value, cidade) in cidades | custom: searchCity">
+                                <a href="javascript:void(0);" ng-click="escolherCidade(value)" class="list-group-item" ng-repeat="(value, cidade) in cidades | customFilter: searchCity">
                                     <h4 class="list-group-item-heading">{{cidade}}</h4>
                                 </a>
                             </div>
@@ -222,7 +222,7 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 sobre-content">
                     <p>Você provavelmente, assim como qualquer brasileiro, não acredita no governo brasileiro e no que ele diz. Também não acredita nas urnas eletrônicas.</p>
-                    <p>Na história da democracia brasileira tivemos diversos casos de possíveis fraudações eleitoriais que foram abafadas pela mídia.</p>
+                    <p>Na história da democracia brasileira tivemos diversos casos de possíveis fraudes eleitoriais.</p>
                     <p>Você assim como eu quer saber REALMENTE quem está em alta?</p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center page-scroll">

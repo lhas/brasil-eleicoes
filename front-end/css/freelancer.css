@@ -516,11 +516,20 @@ fieldset[disabled] .btn-success.active {
   bottom: -149px;
   right: 0px;
 }
-@media (max-width: 767px) {
+.search-city {
+  height: 46px;
+  font-size: 18px;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+@media (max-width: 768px) {
   .sobre-content {
     padding: 0 60px;
   }
-  #ads {
+  #ads,
+  .github-link,
+  #sthoverbuttons {
     display: none;
   }
 }
