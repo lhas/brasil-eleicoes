@@ -20,8 +20,18 @@
     ,{"cidade": "Rio de Janeiro", "nome": "Pedro Paulo", "partido": "PMDB", "cargo": "Prefeito"}
     ,{"cidade": "Rio de Janeiro", "nome": "Romário", "partido": "PSB", "cargo": "Prefeito"}
   ],
+  "Porto Alegre": [
+     {"cidade": "Porto Alegre", "nome": "Luciana Genro", "partido": "PSOL", "cargo": "Prefeito"}
+    ,{"cidade": "Porto Alegre", "nome": "Maurício Dziedricki", "partido": "PTB", "cargo": "Prefeito"}
+    ,{"cidade": "Porto Alegre", "nome": "Marcel van Hattem", "partido": "PP", "cargo": "Prefeito"}
+    ,{"cidade": "Porto Alegre", "nome": "Nelson Marchezan Jr.", "partido": "PSDB", "cargo": "Prefeito"}
+    ,{"cidade": "Porto Alegre", "nome": "Onyx Lorenzoni", "partido": "DEM", "cargo": "Prefeito"}
+    ,{"cidade": "Porto Alegre", "nome": "Raul Pont", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Porto Alegre", "nome": "Sebastião Melo", "partido": "PMDB", "cargo": "Prefeito"}
+  ],
   "São Paulo": [
      {"cidade": "São Paulo", "nome": "Andrea Matarazzo", "partido": "PSD", "cargo": "Prefeito"}
+    ,{"cidade": "São Paulo", "nome": "Fernando Haddad", "partido": "PT", "cargo": "Prefeito"}
     ,{"cidade": "São Paulo", "nome": "João Doria", "partido": "PSB", "cargo": "Prefeito"}
     ,{"cidade": "São Paulo", "nome": "Laércio Benko", "partido": "PRB", "cargo": "Prefeito"}
     ,{"cidade": "São Paulo", "nome": "Luiza Erundina", "partido": "PMDB", "cargo": "Prefeito"}
@@ -29,6 +39,283 @@
     ,{"cidade": "São Paulo", "nome": "Marco Feliciano", "partido": "PSC", "cargo": "Prefeito"}
     ,{"cidade": "São Paulo", "nome": "Marta Suplicy", "partido": "PSOL", "cargo": "Prefeito"}
     ,{"cidade": "São Paulo", "nome": "Ricardo Young", "partido": "PC do B", "cargo": "Prefeito"}
+  ],
+  "Curitiba": [
+     {"cidade": "Curitiba", "nome": "Tadeu Veneri", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Curitiba", "nome": "Luciano Ducci", "partido": "PSB", "cargo": "Prefeito"}
+    ,{"cidade": "Curitiba", "nome": "Xênia Mello", "partido": "PSOL", "cargo": "Prefeito"}
+  ],
+  "Recife": [
+     {"cidade": "Recife", "nome": "Tadeu Veneri", "partido": "DEM", "cargo": "Prefeito"}
+    ,{"cidade": "Recife", "nome": "Luciano Ducci", "partido": "PSDB", "cargo": "Prefeito"}
+  ],
+  "Campinas": [
+     {"cidade": "Campinas", "nome": "Jonas Donizette", "partido": "PSB", "cargo": "Prefeito"}
+    ,{"cidade": "Campinas", "nome": "Marcio Pochmann", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Campinas", "nome": "Artur Orsi", "partido": "PSD", "cargo": "Prefeito"}
+    ,{"cidade": "Campinas", "nome": "Marcela Moreira", "partido": "PSOL", "cargo": "Prefeito"}
+    ,{"cidade": "Campinas", "nome": "Ahmed Tarique", "partido": "PCO", "cargo": "Prefeito"}
+  ],
+  "Guarulhos": [
+     {"cidade": "Guarulhos", "nome": "Elói Pietá", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Guarulhos", "nome": "Jorge Wilson Xerife do Consumidor", "partido": "PRB", "cargo": "Prefeito"}
+  ],
+  "Fortaleza": [
+     {"cidade": "Fortaleza", "nome": "Moroni Torgan", "partido": "DEM", "cargo": "Prefeito"}
+    ,{"cidade": "Fortaleza", "nome": "Luizianne Lins", "partido": "PT", "cargo": "Prefeito"}
+  ],
+  "Salvador": [
+     {"cidade": "Salvador", "nome": "ACM Neto", "partido": "DEM", "cargo": "Prefeito"}
+    ,{"cidade": "Salvador", "nome": "Alice Portugal", "partido": "PCdoB", "cargo": "Prefeito"}
+    ,{"cidade": "Salvador", "nome": "Renata Mallet", "partido": "PSTU", "cargo": "Prefeito"}
+    ,{"cidade": "Salvador", "nome": "Pastor Sargento Isidorio", "partido": "PDT", "cargo": "Prefeito"}
+  ],
+  "Feira de Santana": [
+     {"cidade": "Feira de Santana", "nome": "José Ronaldo", "partido": "DEM", "cargo": "Prefeito"}
+    ,{"cidade": "Feira de Santana", "nome": "Zé Neto", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Feira de Santana", "nome": "Fernando Torres", "partido": "PSD", "cargo": "Prefeito"}
+    ,{"cidade": "Feira de Santana", "nome": "Jhonatas Monteiro", "partido": "PSOL", "cargo": "Prefeito"}
+  ],
+  "Brasília":  [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Florianópolis": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Palmas": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Niterói": [
+     {"cidade": "Niterói", "nome": "Rodrigo Neves", "partido": "PV", "cargo": "Prefeito"}
+    ,{"cidade": "Niterói", "nome": "Felipe Peixoto", "partido": "PSB", "cargo": "Prefeito"}
+    ,{"cidade": "Niterói", "nome": "Flavio Serafini", "partido": "PSOL", "cargo": "Prefeito"}
+    ,{"cidade": "Niterói", "nome": "José Seba", "partido": "REDE", "cargo": "Prefeito"}
+    ,{"cidade": "Niterói", "nome": "Antônio Rayol", "partido": "PSDB", "cargo": "Prefeito"}
+    ,{"cidade": "Niterói", "nome": "Rogério Aguiar", "partido": "DEM", "cargo": "Prefeito"}
+    ,{"cidade": "Niterói", "nome": "Gegê Galindo", "partido": "PSD", "cargo": "Prefeito"}
+    ,{"cidade": "Niterói", "nome": "Leandro Lacroix", "partido": "NOVO", "cargo": "Prefeito"}
+    ,{"cidade": "Niterói", "nome": "Heitor Fernandes", "partido": "PSTU", "cargo": "Prefeito"}
+  ],
+  "São Gonçalo": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Nova Iguaçu": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Campos dos Goytacazes": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Belford Roxo": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Maringá": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Belém": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "João Pessoa": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Maceió": [
+     {"cidade": "Maceió", "nome": "Cícero Almeida", "partido": "PMDB", "cargo": "Prefeito"}
+    ,{"cidade": "Maceió", "nome": "Paulão", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Maceió", "nome": "Rui Palmeira", "partido": "PSDB", "cargo": "Prefeito"}
+  ],
+  "Macapá": [
+     {"cidade": "Macapá", "nome": "Clécio Luís", "partido": "Rede", "cargo": "Prefeito"}
+    ,{"cidade": "Macapá", "nome": "Moisés Rivaldo", "partido": "PEN", "cargo": "Prefeito"}
+    ,{"cidade": "Macapá", "nome": "Gilvam Borges", "partido": "PMDB", "cargo": "Prefeito"}
+    ,{"cidade": "Macapá", "nome": "Aline Gurgel", "partido": "PRB", "cargo": "Prefeito"}
+    ,{"cidade": "Macapá", "nome": "Ruy Smith", "partido": "PSB", "cargo": "Prefeito"}
+    ,{"cidade": "Macapá", "nome": "Amapá Dora Nascimento", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Macapá", "nome": "Amapá Dora Nascimento", "partido": "PT", "cargo": "Prefeito"}
+  ],
+  "Manaus": [
+     {"cidade": "Manaus", "nome": "Henrique Oliveira", "partido": "SDD", "cargo": "Prefeito"}
+    ,{"cidade": "Manaus", "nome": "Marcos Rotta", "partido": "PMDB", "cargo": "Prefeito"}
+    ,{"cidade": "Manaus", "nome": "Luiz Castro", "partido": "Rede", "cargo": "Prefeito"}
+    ,{"cidade": "Manaus", "nome": "osé Ricardo Wendling", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Manaus", "nome": "Eron Bezerra", "partido": "PCdoB", "cargo": "Prefeito"}
+    ,{"cidade": "Manaus", "nome": "Serafim Corrêa", "partido": "PSB", "cargo": "Prefeito"}
+    ,{"cidade": "Manaus", "nome": "Chico Preto,", "partido": "PMN", "cargo": "Prefeito"}
+    ,{"cidade": "Manaus", "nome": "Hissa Abrahão", "partido": "PDT", "cargo": "Prefeito"}
+  ],
+  "Vitória": [
+     {"cidade": "Vitória", "nome": "Amaro Neto", "partido": "PMN", "cargo": "Prefeito"}
+    ,{"cidade": "Vitória", "nome": "André Moreira", "partido": "Psol", "cargo": "Prefeito"}
+    ,{"cidade": "Vitória", "nome": "Lelo Coimbra", "partido": "PMDB", "cargo": "Prefeito"}
+    ,{"cidade": "Vitória", "nome": "Luciano Rezende", "partido": "PPS", "cargo": "Prefeito"}
+    ,{"cidade": "Vitória", "nome": "Luis Carlos Reblin", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Vitória", "nome": "Luiz Paulo Vellozo Lucas", "partido": "PSDB", "cargo": "Prefeito"}
+    ,{"cidade": "Vitória", "nome": "Max Dias", "partido": "PT", "cargo": "Prefeito"}
+  ],
+  "Goiânia": [
+     {"cidade": "Goiânia", "nome": "Luiz Bittencourt", "partido": "PTB", "cargo": "Prefeito"}
+    ,{"cidade": "Goiânia", "nome": "Delegada Adriana Accorsi", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Goiânia", "nome": "Giuseppe Vecci", "partido": "PSDB", "cargo": "Prefeito"}
+    ,{"cidade": "Goiânia", "nome": "Francisco Jr", "partido": "PSD", "cargo": "Prefeito"}
+    ,{"cidade": "Goiânia", "nome": "Delegado Waldir", "partido": "PR", "cargo": "Prefeito"}
+    ,{"cidade": "Goiânia", "nome": "Vanderlan Cardoso", "partido": "PSB", "cargo": "Prefeito"}
+  ],
+  "São Luís": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Cuiabá": [
+     {"cidade": "Cuiabá", "nome": "Julier Sebastião", "partido": "PDT", "cargo": "Prefeito"}
+    ,{"cidade": "Cuiabá", "nome": "Donizete da Castrillon", "partido": "PTB", "cargo": "Prefeito"}
+    ,{"cidade": "Cuiabá", "nome": "Valtenir Pereira", "partido": "PMDB", "cargo": "Prefeito"}
+    ,{"cidade": "Cuiabá", "nome": "Procurador Mauro", "partido": "PSOL", "cargo": "Prefeito"}
+    ,{"cidade": "Cuiabá", "nome": "Serys Slhessarenko", "partido": "PRB", "cargo": "Prefeito"}
+    ,{"cidade": "Cuiabá", "nome": "Mauro Mendes", "partido": "PSB", "cargo": "Prefeito"}
+  ],
+  "Jaboatão dos Guararapes": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Campo Grande": [
+     {"cidade": "Campo Grande", "nome": "Nelson Trad Filho", "partido": "PTB", "cargo": "Prefeito"}
+    ,{"cidade": "Campo Grande", "nome": "Marquinhos Trad", "partido": "PSD", "cargo": "Prefeito"}
+    ,{"cidade": "Campo Grande", "nome": "André Puccinelli", "partido": "PMDB", "cargo": "Prefeito"}
+    ,{"cidade": "Campo Grande", "nome": "Marquinhos Trad", "partido": "PMDB", "cargo": "Prefeito"}
+    ,{"cidade": "Campo Grande", "nome": "Carlos Marun", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Campo Grande", "nome": "Marcos Alex", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Campo Grande", "nome": "Rose Modesto", "partido": "PSDB", "cargo": "Prefeito"}
+    ,{"cidade": "Campo Grande", "nome": "Eduardo Riedel,", "partido": "PSDB", "cargo": "Prefeito"}
+    ,{"cidade": "Campo Grande", "nome": "Coronel Davi", "partido": "PSC", "cargo": "Prefeito"}
+    ,{"cidade": "Campo Grande", "nome": "Tereza Name", "partido": "PDT", "cargo": "Prefeito"}
+    ,{"cidade": "Campo Grande", "nome": "Aroldo Figueiró", "partido": "PTN", "cargo": "Prefeito"}
+    ,{"cidade": "Campo Grande", "nome": "Marcelo Bluma", "partido": "PV", "cargo": "Prefeito"}
+    ,{"cidade": "Campo Grande", "nome": "Sérgio Longen", "partido": "PR", "cargo": "Prefeito"}
+  ],
+  "Teresina": [
+     {"cidade": "Teresina", "nome": "Firmino Filho", "partido": "PSDB", "cargo": "Prefeito"}
+    ,{"cidade": "Teresina", "nome": "Elmano Férrer", "partido": "PTB", "cargo": "Prefeito"}
+    ,{"cidade": "Teresina", "nome": "Dr. Pessoa", "partido": "PSD", "cargo": "Prefeito"}
+    ,{"cidade": "Teresina", "nome": "Rodrigo Martins", "partido": "PSB", "cargo": "Prefeito"}
+    ,{"cidade": "Teresina", "nome": "Merlong Solano", "partido": "PT", "cargo": "Prefeito"}
+  ],
+  "Natal": [
+     {"cidade": "Natal", "nome": "Carlos Eduardo Alves", "partido": "PDT", "cargo": "Prefeito"}
+    ,{"cidade": "Natal", "nome": "Fernando Mineiro", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Natal", "nome": "Kelps Lima", "partido": "SD", "cargo": "Prefeito"}
+    ,{"cidade": "Natal", "nome": "Carlos Eduardo", "partido": "PMDB", "cargo": "Prefeito"}
+    ,{"cidade": "Natal", "nome": "Wilma de Faria", "partido": "PT do B", "cargo": "Prefeito"}
+    ,{"cidade": "Natal", "nome": "Rogério Marinho", "partido": "PSDB", "cargo": "Prefeito"}
+    ,{"cidade": "Natal", "nome": "Rafael Motta", "partido": "PSB", "cargo": "Prefeito"}
+    ,{"cidade": "Natal", "nome": "Robério Paulino", "partido": "PSOL", "cargo": "Prefeito"}
+    ,{"cidade": "Natal", "nome": "George Câmara", "partido": "PC do B", "cargo": "Prefeito"}
+    ,{"cidade": "Natal", "nome": "Geraldo Ferreira", "partido": "PPS", "cargo": "Prefeito"}
+    ,{"cidade": "Natal", "nome": "Luiz Gomes", "partido": "PEN", "cargo": "Prefeito"}
+  ],
+  "Porto Velho": [
+     {"cidade": "Porto Velho", "nome": "Mariana Carvalho", "partido": "PSDB", "cargo": "Prefeito"}
+    ,{"cidade": "Porto Velho", "nome": "Mauro Nazif", "partido": "PSB", "cargo": "Prefeito"}
+    ,{"cidade": "Porto Velho", "nome": "Williames Pimentel", "partido": "PMDB", "cargo": "Prefeito"}
+    ,{"cidade": "Porto Velho", "nome": "Lindomar Garçom", "partido": "PRB", "cargo": "Prefeito"}
+  ],
+  "Boa Vista": [
+     {"cidade": "Boa Vista", "nome": "Teresa Surita", "partido": "PMDB", "cargo": "Prefeito"}
+    ,{"cidade": "Boa Vista", "nome": "Alex Ladislau", "partido": "PRP", "cargo": "Prefeito"}
+    ,{"cidade": "Boa Vista", "nome": "Aline Rezende", "partido": "PRTB", "cargo": "Prefeito"}
+    ,{"cidade": "Boa Vista", "nome": "Roberto Ramos", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Boa Vista", "nome": "Jeferson Alves", "partido": "PDT", "cargo": "Prefeito"}
+    ,{"cidade": "Boa Vista", "nome": "Mozarildo Cavancalnti", "partido": "PTB", "cargo": "Prefeito"}
+  ],
+  "Aracaju": [
+     {"cidade": "Aracaju", "nome": "", "partido": "", "cargo": "Prefeito"}
+    ,{"cidade": "Aracaju", "nome": "", "partido": "", "cargo": "Prefeito"}
+    ,{"cidade": "Aracaju", "nome": "", "partido": "", "cargo": "Prefeito"}
+    ,{"cidade": "Aracaju", "nome": "", "partido": "", "cargo": "Prefeito"}
+    ,{"cidade": "Aracaju", "nome": "", "partido": "", "cargo": "Prefeito"}
+  ],
+  "Palmas": [
+     {"cidade": "Palmas", "nome": "Marcão Poggio", "partido": "DEM", "cargo": "Prefeito"}
+    ,{"cidade": "Palmas", "nome": "Luana Ribeiro", "partido": "PDT", "cargo": "Prefeito"}
+    ,{"cidade": "Palmas", "nome": "Sargento Aragão", "partido": "PEN", "cargo": "Prefeito"}
+    ,{"cidade": "Palmas", "nome": "Raul Filho", "partido": "PR", "cargo": "Prefeito"}
+    ,{"cidade": "Palmas", "nome": "Carlos Amastha", "partido": "PROS", "cargo": "Prefeito"}
+    ,{"cidade": "Palmas", "nome": "João Campos", "partido": "PSC", "cargo": "Prefeito"}
+    ,{"cidade": "Palmas", "nome": "Zé Roberto", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Palmas", "nome": "Claudia Lelis", "partido": "PV", "cargo": "Prefeito"}
+    ,{"cidade": "Palmas", "nome": "Tom Lira", "partido": "PPS", "cargo": "Prefeito"}
+  ],
+  "Joinville": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "São José dos Campos": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Americana": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Sorocaba": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Cascavél": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Vila Velha": [
+     {"cidade": "Vila Velha", "nome": "Rodney Miranda", "partido": "DEM", "cargo": "Prefeito"}
+    ,{"cidade": "Vila Velha", "nome": "Doutor Hércules", "partido": "PMDB", "cargo": "Prefeito"}
+    ,{"cidade": "Vila Velha", "nome": "Neucimar Fraga", "partido": "PSD", "cargo": "Prefeito"}
+    ,{"cidade": "Vila Velha", "nome": "José Carlos Nunes", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Vila Velha", "nome": "José Márcio Martins", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "Vila Velha", "nome": "Paulo Coutinho", "partido": "PT", "cargo": "Prefeito"}
+  ],
+  "Criciúma": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Ribeirão Preto": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Santos": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Limeira": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Santo André": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "São Carlos": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Osasco": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Araraquara": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Jundiai": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Bragança Paulista": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Uberlândia": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Contagem": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Ipatinga": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Juíz de Fora": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Londrina": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Blumenau": [
+     {"cidade": "Blumenau", "nome": "Mário Hildebrandt", "partido": "PSB", "cargo": "Prefeito"}
+    ,{"cidade": "Blumenau", "nome": "Ana Paula Lima", "partido": "PT", "cargo": "Prefeito"}
+  ],
+  "Novo Hamburgo": [
+    {"nome": "Não foram adicionados candidatos ainda."}
+  ],
+  "Caxias do Sul": [
+    {"nome": "Não foram adicionados candidatos ainda."}
   ],
   "Palmital": [
     {"cidade": "Palmital", "nome": "José Roberto Ronqui", "partido": "PSD", "cargo": "Prefeito"}
