@@ -161,8 +161,10 @@
                         </div>
 
                         <div ng-show="currentUser.candidato">
-                        <!-- <div> -->
-                            <h3>Obrigado! Compartilhe seu voto para ver o Ranking</h3>
+
+                            <h3>Você votou no(a) {{ currentUser.candidato.nome }}!</h3>
+                            <br>
+                            <h4>Obrigado! Compartilhe seu voto para ver o Ranking</h4>
 
                             <div class="table-responsive" ng-if="compartilhou">
                                 <table class="table text-center">

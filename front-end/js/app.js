@@ -61,10 +61,9 @@ angular.module("brasilEleicoes", ["satellizer"])
   // XHR
   $http.get("http://brasileleicoes.com.br:3010/voto/validar").then(function(result) {
     if(result.data.message == "ja_votou") {
-      alert("Você votou no " + result.data.voto.candidato.nome + "!");
-
       $scope.currentUser.cidade = result.data.voto.cidade;
       $scope.currentUser.candidato = result.data.voto.candidato;
+      $scope.currentUser.nomeCandidato = result.data.voto.candidato.nome;
 
       $scope.atualizarRanking();
     }
