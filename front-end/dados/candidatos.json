@@ -1,4 +1,27 @@
 {
+  "São Paulo": [
+     {"cidade": "São Paulo", "nome": "Andrea Matarazzo", "partido": "PSD", "cargo": "Prefeito"}
+    ,{"cidade": "São Paulo", "nome": "Fernando Haddad", "partido": "PT", "cargo": "Prefeito"}
+    ,{"cidade": "São Paulo", "nome": "Celso Russomanno", "partido": "PRB", "cargo": "Prefeito"}
+    ,{"cidade": "São Paulo", "nome": "João Doria", "partido": "PSDB", "cargo": "Prefeito"}
+    ,{"cidade": "São Paulo", "nome": "Luiza Erundina", "partido": "PSOL", "cargo": "Prefeito"}
+    ,{"cidade": "São Paulo", "nome": "Major Olímpio", "partido": "SD", "cargo": "Prefeito"}
+    ,{"cidade": "São Paulo", "nome": "Levy Fidelix", "partido": "PRTB", "cargo": "Prefeito"}
+    ,{"cidade": "São Paulo", "nome": "Marco Feliciano", "partido": "PSC", "cargo": "Prefeito"}
+    ,{"cidade": "São Paulo", "nome": "Marta Suplicy", "partido": "PMDB", "cargo": "Prefeito"}
+    ,{"cidade": "São Paulo", "nome": "Ricardo Young", "partido": "REDE", "cargo": "Prefeito"}
+    ,{"cidade": "São Paulo", "nome": "Marlene Campos Machado", "partido": "PTB", "cargo": "Prefeito"}
+  ],
+  "Rio de Janeiro": [
+     {"cidade": "Rio de Janeiro", "nome": "Alessandro Molon", "partido": "REDE", "cargo": "Prefeito"}
+    ,{"cidade": "Rio de Janeiro", "nome": "Flávio Bolsonaro", "partido": "PSC", "cargo": "Prefeito"}
+    ,{"cidade": "Rio de Janeiro", "nome": "Indio da Costa", "partido": "PSD", "cargo": "Prefeito"}
+    ,{"cidade": "Rio de Janeiro", "nome": "Jandira Feghali", "partido": "PC do B", "cargo": "Prefeito"}
+    ,{"cidade": "Rio de Janeiro", "nome": "Marcelo Crivella", "partido": "PRB", "cargo": "Prefeito"}
+    ,{"cidade": "Rio de Janeiro", "nome": "Marcelo Freixo", "partido": "PSOL", "cargo": "Prefeito"}
+    ,{"cidade": "Rio de Janeiro", "nome": "Pedro Paulo", "partido": "PMDB", "cargo": "Prefeito"}
+    ,{"cidade": "Rio de Janeiro", "nome": "Romário", "partido": "PSB", "cargo": "Prefeito"}
+  ],
   "Belo Horizonte": [
      {"cidade": "Belo Horizonte", "nome": "Alexandre Kalil", "partido": "PHS", "cargo": "Prefeito"}
     ,{"cidade": "Belo Horizonte", "nome": "Délio Malheiros", "partido": "PSD", "cargo": "Prefeito"}
@@ -10,16 +33,6 @@
     ,{"cidade": "Belo Horizonte", "nome": "Reginaldo Lopes", "partido": "PT", "cargo": "Prefeito"}
     ,{"cidade": "Belo Horizonte", "nome": "Sargento Rodrigues", "partido": "PDT", "cargo": "Prefeito"}
   ],
-  "Rio de Janeiro": [
-     {"cidade": "Rio de Janeiro", "nome": "Alessandro Molon", "partido": "Rede", "cargo": "Prefeito"}
-    ,{"cidade": "Rio de Janeiro", "nome": "Flávio Bolsonaro", "partido": "PSC", "cargo": "Prefeito"}
-    ,{"cidade": "Rio de Janeiro", "nome": "Indio da Costa", "partido": "PSD", "cargo": "Prefeito"}
-    ,{"cidade": "Rio de Janeiro", "nome": "Jandira Feghali", "partido": "PC do B", "cargo": "Prefeito"}
-    ,{"cidade": "Rio de Janeiro", "nome": "Marcelo Crivella", "partido": "PRB", "cargo": "Prefeito"}
-    ,{"cidade": "Rio de Janeiro", "nome": "Marcelo Freixo", "partido": "PSOL", "cargo": "Prefeito"}
-    ,{"cidade": "Rio de Janeiro", "nome": "Pedro Paulo", "partido": "PMDB", "cargo": "Prefeito"}
-    ,{"cidade": "Rio de Janeiro", "nome": "Romário", "partido": "PSB", "cargo": "Prefeito"}
-  ],
   "Porto Alegre": [
      {"cidade": "Porto Alegre", "nome": "Luciana Genro", "partido": "PSOL", "cargo": "Prefeito"}
     ,{"cidade": "Porto Alegre", "nome": "Maurício Dziedricki", "partido": "PTB", "cargo": "Prefeito"}
@@ -28,17 +41,6 @@
     ,{"cidade": "Porto Alegre", "nome": "Onyx Lorenzoni", "partido": "DEM", "cargo": "Prefeito"}
     ,{"cidade": "Porto Alegre", "nome": "Raul Pont", "partido": "PT", "cargo": "Prefeito"}
     ,{"cidade": "Porto Alegre", "nome": "Sebastião Melo", "partido": "PMDB", "cargo": "Prefeito"}
-  ],
-  "São Paulo": [
-     {"cidade": "São Paulo", "nome": "Andrea Matarazzo", "partido": "PSD", "cargo": "Prefeito"}
-    ,{"cidade": "São Paulo", "nome": "Fernando Haddad", "partido": "PT", "cargo": "Prefeito"}
-    ,{"cidade": "São Paulo", "nome": "João Doria", "partido": "PSB", "cargo": "Prefeito"}
-    ,{"cidade": "São Paulo", "nome": "Laércio Benko", "partido": "PRB", "cargo": "Prefeito"}
-    ,{"cidade": "São Paulo", "nome": "Luiza Erundina", "partido": "PMDB", "cargo": "Prefeito"}
-    ,{"cidade": "São Paulo", "nome": "Major Olímpio", "partido": "Rede", "cargo": "Prefeito"}
-    ,{"cidade": "São Paulo", "nome": "Marco Feliciano", "partido": "PSC", "cargo": "Prefeito"}
-    ,{"cidade": "São Paulo", "nome": "Marta Suplicy", "partido": "PSOL", "cargo": "Prefeito"}
-    ,{"cidade": "São Paulo", "nome": "Ricardo Young", "partido": "PC do B", "cargo": "Prefeito"}
   ],
   "Curitiba": [
      {"cidade": "Curitiba", "nome": "Tadeu Veneri", "partido": "PT", "cargo": "Prefeito"}
@@ -66,7 +68,7 @@
   ],
   "Salvador": [
      {"cidade": "Salvador", "nome": "ACM Neto", "partido": "DEM", "cargo": "Prefeito"}
-    ,{"cidade": "Salvador", "nome": "Alice Portugal", "partido": "PCdoB", "cargo": "Prefeito"}
+    ,{"cidade": "Salvador", "nome": "Alice Portugal", "partido": "PC do B", "cargo": "Prefeito"}
     ,{"cidade": "Salvador", "nome": "Renata Mallet", "partido": "PSTU", "cargo": "Prefeito"}
     ,{"cidade": "Salvador", "nome": "Pastor Sargento Isidorio", "partido": "PDT", "cargo": "Prefeito"}
   ],
@@ -123,7 +125,7 @@
     ,{"cidade": "Maceió", "nome": "Rui Palmeira", "partido": "PSDB", "cargo": "Prefeito"}
   ],
   "Macapá": [
-     {"cidade": "Macapá", "nome": "Clécio Luís", "partido": "Rede", "cargo": "Prefeito"}
+     {"cidade": "Macapá", "nome": "Clécio Luís", "partido": "REDE", "cargo": "Prefeito"}
     ,{"cidade": "Macapá", "nome": "Moisés Rivaldo", "partido": "PEN", "cargo": "Prefeito"}
     ,{"cidade": "Macapá", "nome": "Gilvam Borges", "partido": "PMDB", "cargo": "Prefeito"}
     ,{"cidade": "Macapá", "nome": "Aline Gurgel", "partido": "PRB", "cargo": "Prefeito"}
@@ -134,9 +136,9 @@
   "Manaus": [
      {"cidade": "Manaus", "nome": "Henrique Oliveira", "partido": "SDD", "cargo": "Prefeito"}
     ,{"cidade": "Manaus", "nome": "Marcos Rotta", "partido": "PMDB", "cargo": "Prefeito"}
-    ,{"cidade": "Manaus", "nome": "Luiz Castro", "partido": "Rede", "cargo": "Prefeito"}
+    ,{"cidade": "Manaus", "nome": "Luiz Castro", "partido": "REDE", "cargo": "Prefeito"}
     ,{"cidade": "Manaus", "nome": "osé Ricardo Wendling", "partido": "PT", "cargo": "Prefeito"}
-    ,{"cidade": "Manaus", "nome": "Eron Bezerra", "partido": "PCdoB", "cargo": "Prefeito"}
+    ,{"cidade": "Manaus", "nome": "Eron Bezerra", "partido": "PC do B", "cargo": "Prefeito"}
     ,{"cidade": "Manaus", "nome": "Serafim Corrêa", "partido": "PSB", "cargo": "Prefeito"}
     ,{"cidade": "Manaus", "nome": "Chico Preto,", "partido": "PMN", "cargo": "Prefeito"}
     ,{"cidade": "Manaus", "nome": "Hissa Abrahão", "partido": "PDT", "cargo": "Prefeito"}
